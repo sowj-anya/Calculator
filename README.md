@@ -15,4 +15,5 @@ To get started, clone this repository and open index.html in vs code.
 + *Select Open with Live Server*
 
 ### *Output :*
-https://github.com/sowj-anya/Calculator/blob/main/Calculator/Output/codsoft_task3.mp4
+https://github.com/user-attachments/assets/08bf229a-7773-44e9-8ddd-be068c72c344
+
